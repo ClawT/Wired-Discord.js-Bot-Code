@@ -1,6 +1,3 @@
-const sql = require('sqlite');
-sql.open('./score.sqlite');
-let staff = require('./staff.json')
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
