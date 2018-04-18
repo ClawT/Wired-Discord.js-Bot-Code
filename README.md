@@ -1,1 +1,1 @@
-# Wired-Discord.js-Bot-Code
+# Discord Bot Örnek. (app.js)
